@@ -52,7 +52,7 @@
               <a class="nav-link" href="./login_user.jsp">로그인테스트</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./Register.jsp">무료회원가입했음ㅇ</a>
+              <a class="nav-link" href="./Register.jsp">무료회원</a>
             </li>
           </ul>
         </div>
